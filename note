@@ -1,0 +1,2 @@
+edit file transform.py :
+- line 40 : noisy = cv2.GaussianBlur(noisy,(9,9),0)
